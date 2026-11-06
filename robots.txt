@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sparkling-cajeta-aca56f.netlify.app/sitemap.xml
